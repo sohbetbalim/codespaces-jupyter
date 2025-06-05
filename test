@@ -1,0 +1,777 @@
+<div class="elementor elementor-1000">
+<p class="ai-optimize-6"><!-- Bölüm 1: Başlık ve Giriş --></p>
+
+<section class="elementor-section elementor-top-section elementor-element elementor-element-1" data-id="1" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2" data-id="2" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<p class="ai-optimize-7"><!-- H1: Anahtar kelime burada (Keyphrase in Title) --></p>
+
+<div class="elementor-element elementor-element-3 elementor-widget elementor-widget-heading" data-id="3" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-xl ai-optimize-8">Mobil Uyumluluk Rehberi: Web Sitenizi Mobil Cihazlar İçin Optimize Etme</h1>
+</div>
+</div>
+<p class="ai-optimize-9"><!-- Giriş Paragrafı (Keyphrase in Introduction) --></p>
+
+<div class="elementor-element elementor-element-4 elementor-widget elementor-widget-text-editor" data-id="4" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-10"><strong>Mobil uyumluluk rehberi</strong> sayesinde, web sitenizi akıllı telefon ve tablet gibi cihazlar için adım adım nasıl optimize edeceğinizi öğrenin. Bu rehberde <strong>mobil uyumluluk rehberi</strong> odak anahtar kelimesi etrafında responsive tasarım, sayfa hızı optimizasyonu, görsel optimizasyonu, kullanıcı deneyimi ve SEO en iyi uygulamalarını ayrıntılı şekilde ele alacağız.</p>
+
+</div>
+</div>
+<p class="ai-optimize-11"><!-- Örnek Görsel (Keyphrase in Alt Attribute) --></p>
+
+<div class="elementor-element elementor-element-5 elementor-widget elementor-widget-image" data-id="5" data-element_type="widget" data-widget_type="image.default">
+<div class="elementor-widget-container"><img class="elementor-animation-grow" src="https://via.placeholder.com/800x400?text=Mobil+Uyumluluk+%C5%9Eemasi" alt="Mobil uyumluluk rehberi şeması görseli" /></div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<p class="ai-optimize-12"><!-- Bölüm 2: Neden Mobil Uyumluluk Önemli? --></p>
+
+<section class="elementor-section elementor-top-section elementor-element elementor-element-6" data-id="6" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7" data-id="7" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<p class="ai-optimize-13"><!-- H2 --></p>
+
+<div class="elementor-element elementor-element-8 elementor-widget elementor-widget-heading" data-id="8" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-lg ai-optimize-14">Neden Mobil Uyumluluk Önemli?</h2>
+</div>
+</div>
+<p class="ai-optimize-15"><!-- Metin --></p>
+
+<div class="elementor-element elementor-element-9 elementor-widget elementor-widget-text-editor" data-id="9" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-16">Mobil cihazlardan web trafiğinin hızla artması, her türlü sitenin <strong>mobil uyumluluk rehberi</strong> doğrultusunda optimize edilmesini zorunlu kılıyor. Aşağıdaki başlıca nedenler, bu rehberin ne kadar elzem olduğunu ortaya koyuyor:</p>
+
+<ul>
+ 	<li class="ai-optimize-17"><strong>Kullanıcı Deneyimi (UX):</strong> Mobil uyumlu bir site, ziyaretçilerin sayfada daha uzun süre kalmasını ve içerikle daha rahat etkileşimde bulunmasını sağlar. Küçük ekranlar için optimize edilmemiş bir site, gezinmeyi zorlaştırır ve hemen çıkma oranını yükseltir.</li>
+ 	<li class="ai-optimize-18"><strong>Arama Motoru Sıralamaları (SEO):</strong> Google’ın <a href="https://search.google.com/test/mobile-friendly" target="_blank" rel="noopener noreferrer">Mobile-Friendly Test</a> aracı, mobil uyumluluk kriterlerini karşılayan siteleri tercih eder. “Mobile-first indexing” ile arama motoru önce sitenin mobil versiyonunu analiz ederek sıralama algoritmasını belirler.</li>
+ 	<li class="ai-optimize-19"><strong>Hız ve Erişilebilirlik:</strong> Mobil kullanıcılar genellikle daha yavaş internet bağlantıları kullanır. <a href="https://developers.google.com/speed/pagespeed/insights" target="_blank" rel="noopener noreferrer">PageSpeed Insights</a> raporlarında, mobilde hızlı açılan sayfalar her zaman öne çıkar.</li>
+</ul>
+</div>
+</div>
+<p class="ai-optimize-20"><!-- Dış Bağlantı Örneği (Outbound Link) --></p>
+
+<div class="elementor-element elementor-element-10 elementor-widget elementor-widget-text-editor" data-id="10" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-21">Daha detaylı teknik açıklamalar için <a href="https://developer.mozilla.org/tr/docs/Web/Performance" target="_blank" rel="noopener noreferrer">MDN Web Docs’ta Performans Optimizasyonu</a> bölümüne göz atabilirsiniz.</p>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<p class="ai-optimize-22"><!-- Bölüm 3: Temel Kavramlar ve Terimler --></p>
+
+<section class="elementor-section elementor-top-section elementor-element elementor-element-11" data-id="11" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-12" data-id="12" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<p class="ai-optimize-23"><!-- H2 --></p>
+
+<div class="elementor-element elementor-element-13 elementor-widget elementor-widget-heading" data-id="13" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-lg ai-optimize-24">Temel Kavramlar ve Terimler</h2>
+</div>
+</div>
+<p class="ai-optimize-25"><!-- Giriş Paragrafı --></p>
+
+<div class="elementor-element elementor-element-14 elementor-widget elementor-widget-text-editor" data-id="14" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-26">Bu bölümde, <strong>mobil uyumluluk rehberi</strong> kapsamında sıkça karşınıza çıkacak bazı temel kavramları ve terimleri açıklıyor, rehberin geri kalan kısmında hangi teknikleri kullanacağımızı netleştiriyoruz.</p>
+
+</div>
+</div>
+<p class="ai-optimize-27"><!-- H3: Responsive Tasarım --></p>
+
+<div class="elementor-element elementor-element-15 elementor-widget elementor-widget-heading" data-id="15" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-28">Responsive Tasarım</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-16 elementor-widget elementor-widget-text-editor" data-id="16" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-29">Responsive tasarım, bir web sitesinin farklı ekran boyutlarına (mobil, tablet, masaüstü) otomatik uyum sağlamasını ifade eder. Bunun temelini CSS Media Queries, esnek ızgaralar (grid) ve yüzde tabanlı genişlikler oluşturur. Örneğin:</p>
+
+<ul>
+ 	<li class="ai-optimize-30"><strong>CSS Media Queries:</strong> <code>@media (max-width: 768px) { … }</code> ile 768px altındaki ekranlar için sayfa stili tanımlanabilir.</li>
+ 	<li class="ai-optimize-31"><strong>Esnek Izgara Sistemleri:</strong> Bootstrap, Tailwind gibi framework’lerde bulunan grid sistemleri, içerik bloklarını sütun sütun ayırarak farklı ekranlarda akıcı görüntü sağlar.</li>
+ 	<li class="ai-optimize-32"><strong>Görüntülerin Esnekliği:</strong> Görselleri <code>max-width: 100%; height: auto;</code> şeklinde tanımlamak, ekrana uyumlu görünmelerini garanti eder.</li>
+</ul>
+</div>
+</div>
+<p class="ai-optimize-33"><!-- H3: Mobil-Öncelikli Yaklaşım --></p>
+
+<div class="elementor-element elementor-element-17 elementor-widget elementor-widget-heading" data-id="17" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-34">Mobil-Öncelikli (Mobile-First) Yaklaşım</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-18 elementor-widget elementor-widget-text-editor" data-id="18" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-35">Mobil-öncelikli tasarım yaklaşımlarında önce küçük ekranlar (telefon) için stili belirler, sonrasında daha büyük ekranlara ek geliştirmeler uygulanır. Bu yöntem, gereksiz kod yükünü azaltarak sayfa hızını iyileştirir.</p>
+
+</div>
+</div>
+<p class="ai-optimize-36"><!-- H3: Görsel Optimizasyonu --></p>
+
+<div class="elementor-element elementor-element-19 elementor-widget elementor-widget-heading" data-id="19" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-37">Görsel Optimizasyonu</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-20 elementor-widget elementor-widget-text-editor" data-id="20" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-38">Mobil cihazlarda veri kullanımını azaltmak ve sayfa hızını yükseltmek için görselleri sıkıştırmak, doğru formatı seçmek (WebP/AVIF) ve <code>srcset</code> kullanmak şarttır. `<picture>` etiketi örneği:</picture></p>
+
+<pre><code>&lt;picture&gt;
+  &lt;source srcset="ornek.avif" type="image/avif"&gt;
+  &lt;source srcset="ornek.webp" type="image/webp"&gt;
+  &lt;img src="ornek.jpg" alt="Mobil uyumluluk rehberi görseli" loading="lazy"&gt;
+&lt;/picture&gt;</code></pre>
+</div>
+</div>
+<p class="ai-optimize-39"><!-- H3: Sayfa Hızı ve Performans --></p>
+
+<div class="elementor-element elementor-element-21 elementor-widget elementor-widget-heading" data-id="21" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-40">Sayfa Hızı ve Performans</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-22 elementor-widget elementor-widget-text-editor" data-id="22" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-41">Mobil kullanıcılar genellikle masaüstünden daha yavaş ağ hızları kullanır. CSS/JS dosyalarını <em>minify</em> etmek, tarayıcı önbellekleme (caching) mekanizmalarından yararlanmak ve kritik kaynakları (critical CSS/JS) öncelikli yüklemek, mobil performansı maksimize eder.</p>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<p class="ai-optimize-42"><!-- Bölüm 4: Responsive Tasarım: Temel Adımlar --></p>
+
+<section class="elementor-section elementor-top-section elementor-element elementor-element-23" data-id="23" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-24" data-id="24" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<p class="ai-optimize-43"><!-- H2 --></p>
+
+<div class="elementor-element elementor-element-25 elementor-widget elementor-widget-heading" data-id="25" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-lg ai-optimize-44">Responsive Tasarım: Temel Adımlar</h2>
+</div>
+</div>
+<p class="ai-optimize-45"><!-- Giriş Paragrafı --></p>
+
+<div class="elementor-element elementor-element-26 elementor-widget elementor-widget-text-editor" data-id="26" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-46">Web sitenizi <strong>mobil uyumluluk rehberi</strong> doğrultusunda responsive hale getirmek için şu adımları izleyin:</p>
+
+</div>
+</div>
+<p class="ai-optimize-47"><!-- H3: HTML ve CSS Yapısını Hazırlama --></p>
+
+<div class="elementor-element elementor-element-27 elementor-widget elementor-widget-heading" data-id="27" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-48">HTML ve CSS Yapısını Hazırlama</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-28 elementor-widget elementor-widget-text-editor" data-id="28" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-49"><strong>Viewport Meta Etiketi:</strong> Mobil tarayıcıların sayfanızı doğru ölçeklemesi için <code>&lt;head&gt;</code> bölümüne ekleyin:</p>
+
+<pre><code>&lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;</code></pre>
+<p class="ai-optimize-50"><strong>Esnek Kapsayıcılar:</strong> İçerik bloklarınızı yüzde (%) tabanlı genişlik veya flexbox/grid kullanarak oluşturun:</p>
+
+<pre><code>.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.item {
+  flex: 1 1 300px; /* Minimum 300px genişlik, satır kaydırma */
+  margin: 10px;
+}</code></pre>
+<p class="ai-optimize-51"><strong>Medya Sorguları (Media Queries):</strong> Farklı cihaz boyutları için stil tanımlayın:</p>
+
+<pre><code>@media (max-width: 768px) {
+  .nav-menu { display: none; /* Hamburger menü aktif */}
+  .sidebar { display: none; /* Kenar çubuğu gizle */}
+}
+@media (max-width: 480px) {
+  .item { flex: 1 1 100%; /* Tek sütun düzeni */ }
+}</code></pre>
+</div>
+</div>
+<p class="ai-optimize-52"><!-- H3: Navigasyon Menüsünü Mobil İçin Uyarlama --></p>
+
+<div class="elementor-element elementor-element-29 elementor-widget elementor-widget-heading" data-id="29" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-53">Navigasyon Menüsünü Mobil İçin Uyarlama</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-30 elementor-widget elementor-widget-text-editor" data-id="30" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-54">Geniş, yatay menü çubuğu yerine <strong>hamburger menü</strong> veya off-canvas (kenardan kayan) menü kullanın. Örnek kod:</p>
+
+<pre><code>&lt;!-- Örnek Hamburger Menü Yapısı --&gt;</code></pre>
+<div class="mobile-nav">
+<p class="ai-optimize-55"><button class="hamburger-icon"> ☰ <!-- Üç çizgili ikon --> </button></p>
+
+<div id="mobileMenu" class="mobile-menu-content"><a href="/">Ana Sayfa</a> <a href="/hakkimizda">Hakkımızda</a> <a href="/hizmetler">Hizmetler</a> <a href="/iletisim">İletişim</a></div>
+&nbsp;
+
+</div>
+<pre><code></code></pre>
+<script>
+  function toggleMenu() {
+    var menu = document.getElementById("mobileMenu");
+    menu.style.display = (menu.style.display === "block") ? "none" : "block";
+  }
+</script>
+<pre><code></code></pre>
+</div>
+</div>
+<p class="ai-optimize-56"><!-- H3: İçerik Bloklarını Akıcı Hale Getirme --></p>
+
+<div class="elementor-element elementor-element-31 elementor-widget elementor-widget-heading" data-id="31" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-57">İçerik Bloklarını Akıcı Hale Getirme</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-32 elementor-widget elementor-widget-text-editor" data-id="32" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-58"><strong>Resim ve Medya:</strong> Görselleri <code>.img-responsive { max-width: 100%; height: auto; }</code> ile esnek yapın.</p>
+<p class="ai-optimize-59"><strong>Tablolar:</strong> Geniş tablolar için <code>overflow-x: auto;</code> kullanın.</p>
+<p class="ai-optimize-60"><strong>Formlar:</strong> Form elemanlarını <code>width: 100%;</code> yaparak mobilde rahat kullanım sunun.</p>
+
+<pre><code>input, select, textarea {
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 15px;
+}</code></pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<p class="ai-optimize-61"><!-- Bölüm 5: Görsel ve Multimedya Optimizasyonu --></p>
+
+<section class="elementor-section elementor-top-section elementor-element elementor-element-33" data-id="33" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-34" data-id="34" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<p class="ai-optimize-62"><!-- H2 --></p>
+
+<div class="elementor-element elementor-element-35 elementor-widget elementor-widget-heading" data-id="35" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-lg ai-optimize-63">Görsel ve Multimedya Optimizasyonu</h2>
+</div>
+</div>
+<p class="ai-optimize-64"><!-- Giriş Paragrafı --></p>
+
+<div class="elementor-element elementor-element-36 elementor-widget elementor-widget-text-editor" data-id="36" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-65">Bu bölümde, mobil cihazlarda hem veri maliyetini azaltacak hem de sayfa hızını artıracak şekilde görsel ve medya optimizasyonu tekniklerini ele alıyoruz.</p>
+
+</div>
+</div>
+<p class="ai-optimize-66"><!-- H3: Görsel Format Seçimi --></p>
+
+<div class="elementor-element elementor-element-37 elementor-widget elementor-widget-heading" data-id="37" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-67">Görsel Format Seçimi</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-38 elementor-widget elementor-widget-text-editor" data-id="38" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-68"><strong>WebP ve AVIF:</strong> JPEG/PNG’ye kıyasla çok daha iyi sıkıştırma sunar. `<picture>` etiketi örneği:</picture></p>
+
+<pre><code>&lt;picture&gt;
+  &lt;source srcset="ornek.avif" type="image/avif"&gt;
+  &lt;source srcset="ornek.webp" type="image/webp"&gt;
+  &lt;img src="ornek.jpg" alt="Yüksek sıkıştırma sunan mobil uyumluluk rehberi görseli" loading="lazy"&gt;
+&lt;/picture&gt;</code></pre>
+</div>
+</div>
+<p class="ai-optimize-69"><!-- H3: Boyutlandırma ve Lazy-Loading --></p>
+
+<div class="elementor-element elementor-element-39 elementor-widget elementor-widget-heading" data-id="39" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-70">Boyutlandırma ve Lazy-Loading</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-40 elementor-widget elementor-widget-text-editor" data-id="40" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-71"><strong>Boyutlandırma:</strong> `<img />` etiketi içinde <code>srcset</code> ve <code>sizes</code> kullanarak farklı çözünürlükteki resimleri sunun:</p>
+
+<pre><code>&lt;img
+  src="resim-800.jpg"
+  srcset="resim-400.jpg 400w, resim-800.jpg 800w, resim-1200.jpg 1200w"
+  sizes="(max-width: 600px) 400px, (max-width: 900px) 800px, 1200px"
+  alt="Responsive mobil uyumluluk rehberi örnek görseli"
+  class="img-responsive"&gt;</code></pre>
+<p class="ai-optimize-72"><strong>Lazy-Loading:</strong> Görselleri sayfanın sonradan yüklenmesi için <code>loading="lazy"</code> ekleyin:</p>
+
+<pre><code>&lt;img
+  src="resim-800.jpg"
+  loading="lazy"
+  alt="Lazy loading mobil uyumluluk rehberi görseli"
+  class="img-responsive"&gt;</code></pre>
+</div>
+</div>
+<p class="ai-optimize-73"><!-- H3: Video ve Diğer Medya İçerikleri --></p>
+
+<div class="elementor-element elementor-element-41 elementor-widget elementor-widget-heading" data-id="41" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-74">Video ve Diğer Medya İçerikleri</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-42 elementor-widget elementor-widget-text-editor" data-id="42" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-75">YouTube, Vimeo gibi harici videolar ekliyorsanız, bir oran kutusu (aspect ratio box) oluşturun:</p>
+
+<pre><code>&lt;div class="video-container"&gt;
+  &lt;iframe
+    src="https://www.youtube.com/embed/VIDEO_ID"
+    frameborder="0"
+    allowfullscreen&gt;
+  &lt;/iframe&gt;
+&lt;/div&gt;</code></pre>
+<pre><code>.video-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 en-boy oranı */
+}
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}</code></pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<p class="ai-optimize-76"><!-- Bölüm 6: Sayfa Hızı Optimizasyonu --></p>
+
+<section class="elementor-section elementor-top-section elementor-element elementor-element-43" data-id="43" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-44" data-id="44" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<p class="ai-optimize-77"><!-- H2 --></p>
+
+<div class="elementor-element elementor-element-45 elementor-widget elementor-widget-heading" data-id="45" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-lg ai-optimize-78">Sayfa Hızı Optimizasyonu</h2>
+</div>
+</div>
+<p class="ai-optimize-79"><!-- Giriş Paragrafı --></p>
+
+<div class="elementor-element elementor-element-46 elementor-widget elementor-widget-text-editor" data-id="46" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-80">Mobilde hızlı açılan bir sayfa, kullanıcı memnuniyeti ve SEO açısından kritik. Aşağıdaki adımları takip ederek sayfa hızınızı maksimize edebilirsiniz:</p>
+
+</div>
+</div>
+<p class="ai-optimize-81"><!-- H3: Kaynakları Küçültme ve Birleştirme --></p>
+
+<div class="elementor-element elementor-element-47 elementor-widget elementor-widget-heading" data-id="47" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-82">Kaynakları Küçültme (Minify) ve Birleştirme (Combine)</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-48 elementor-widget elementor-widget-text-editor" data-id="48" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-83"><strong>CSS/JS Minify:</strong> Gereksiz boşlukları, yorumları ve satır sonu karakterlerini kaldırarak dosya boyutunu küçültün. Örneğin Gulp, Webpack ya da benzer araçlarla otomatik minify işlemi uygulayabilirsiniz.</p>
+<p class="ai-optimize-84"><strong>Dosyaları Birleştirme:</strong> Birden fazla CSS veya JS dosyasını tek dosyada birleştirerek HTTP istek sayısını azaltın. HTTP/2 kullanıyorsanız, dosyaları ayrı bırakmak da avantaj sağlayabilir.</p>
+
+</div>
+</div>
+<p class="ai-optimize-85"><!-- H3: Tarayıcı Önbellekleme --></p>
+
+<div class="elementor-element elementor-element-49 elementor-widget elementor-widget-heading" data-id="49" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-86">Tarayıcı Önbellekleme (Browser Caching)</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-50 elementor-widget elementor-widget-text-editor" data-id="50" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-87">Statik dosyalarınızı (CSS, JS, görseller) tarayıcı önbelleğine almak için sunucuya uygun <code>Expires</code> veya <code>Cache-Control</code> header’ları ekleyin:</p>
+
+<pre><code>&lt;IfModule mod_expires.c&gt;
+  ExpiresActive On
+  ExpiresByType image/jpg "access plus 1 month"
+  ExpiresByType image/jpeg "access plus 1 month"
+  ExpiresByType image/gif "access plus 1 month"
+  ExpiresByType image/png "access plus 1 month"
+  ExpiresByType text/css "access plus 1 week"
+  ExpiresByType application/javascript "access plus 1 week"
+&lt;/IfModule&gt;</code></pre>
+</div>
+</div>
+<p class="ai-optimize-88"><!-- H3: Kritik Kaynakları Önceliklendirme --></p>
+
+<div class="elementor-element elementor-element-51 elementor-widget elementor-widget-heading" data-id="51" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-89">Kritik Kaynakları Önceliklendirme (Critical CSS/JS)</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-52 elementor-widget elementor-widget-text-editor" data-id="52" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-90">“Above-the-fold” bölümler için gereken stil ve script dosyalarını inline veya ayrı bir dosyada yükleyerek ilk render süresini kısaltın. Geri kalan stil dosyalarını defer ile aşağıya alın:</p>
+
+<pre><code>&lt;!-- Kritik CSS (inline) --&gt;
+
+<style>
+  body, h1, p { margin: 0; padding: 0; }
+  .navbar { display: flex; justify-content: space-between; }
+</style></code></pre>
+<p class="ai-optimize-91">&lt;!-- Geri kalan CSS defer ile yükleniyor --&gt;<noscript>
+   	<link rel="stylesheet" href="styles.css">
+</noscript>
+<pre><code></code></pre>
+</div>
+</div>
+<p class="ai-optimize-92"><!-- H3: Sunucu Yanıt Süresi --></p>
+
+<div class="elementor-element elementor-element-53 elementor-widget elementor-widget-heading" data-id="53" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-93">Sunucu Yanıt Süresi (TTFB)</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-54 elementor-widget elementor-widget-text-editor" data-id="54" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-94">Sunucunuzun yanıt süresini iyileştirmek için:</p>
+
+<ul>
+ 	<li class="ai-optimize-95">Güçlü bir hosting sağlayıcısı tercih edin.</li>
+ 	<li class="ai-optimize-96">Gereksiz eklenti/modül kullanımını azaltın.</li>
+ 	<li class="ai-optimize-97">PHP veya sunucu tarafı kodlarınızı optimize edin (veritabanı sorgularını gözden geçirin).</li>
+</ul>
+</div>
+</div>
+<p class="ai-optimize-98"><!-- H3: CDN Kullanımı --></p>
+
+<div class="elementor-element elementor-element-55 elementor-widget elementor-widget-heading" data-id="55" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-99">İçerik Dağıtım Ağı (CDN) Kullanımı</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-56 elementor-widget elementor-widget-text-editor" data-id="56" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-100">Statik dosyalarınızı küresel sunucu ağına yayılmış bir <a href="https://www.cloudflare.com/" target="_blank" rel="noopener noreferrer">CDN</a> üzerinden servis ederek gecikmeleri minimalize edin. Örneğin Cloudflare, AWS CloudFront veya Google Cloud CDN tercih edebilirsiniz.</p>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<p class="ai-optimize-101"><!-- Bölüm 7: Mobil Uyumluluk Test Araçları --></p>
+
+<section class="elementor-section elementor-top-section elementor-element elementor-element-57" data-id="57" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-58" data-id="58" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<p class="ai-optimize-102"><!-- H2 --></p>
+
+<div class="elementor-element elementor-element-59 elementor-widget elementor-widget-heading" data-id="59" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-lg ai-optimize-103">Mobil Uyumluluk Test Araçları</h2>
+</div>
+</div>
+<p class="ai-optimize-104"><!-- Giriş Paragrafı --></p>
+
+<div class="elementor-element elementor-element-60 elementor-widget elementor-widget-text-editor" data-id="60" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-105">Web sitenizin mobil uyumluluğunu kontrol etmek için hem ücretsiz hem de ücretli test araçları mevcuttur. Aşağıda en yaygın ve güvenilir örnekleri paylaşıyoruz:</p>
+
+</div>
+</div>
+<p class="ai-optimize-106"><!-- H3: Google Mobile-Friendly Test --></p>
+
+<div class="elementor-element elementor-element-61 elementor-widget elementor-widget-heading" data-id="61" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-107">Google Mobile-Friendly Test</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-62 elementor-widget elementor-widget-text-editor" data-id="62" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-108">Google’ın resmi <a href="https://search.google.com/test/mobile-friendly" target="_blank" rel="noopener noreferrer">Mobile-Friendly Test</a> aracı, sayfanızın mobil uyumlu olup olmadığını ücretsiz olarak kontrol eder. Hatalı CSS, eksik <code>viewport</code> etiketi ve küçük yazı boyutları gibi uyarıları listeler.</p>
+
+</div>
+</div>
+<p class="ai-optimize-109"><!-- H3: Google PageSpeed Insights --></p>
+
+<div class="elementor-element elementor-element-63 elementor-widget elementor-widget-heading" data-id="63" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-110">Google PageSpeed Insights</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-64 elementor-widget elementor-widget-text-editor" data-id="64" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-111"><a href="https://developers.google.com/speed/pagespeed/insights" target="_blank" rel="noopener noreferrer">PageSpeed Insights</a>, hem mobil hem de masaüstü performansını ölçer. “Mobile” raporunda sayfa hızını, kullanılabilirliği ve optimizasyon önerilerini detaylı biçimde sunar.</p>
+
+</div>
+</div>
+<p class="ai-optimize-112"><!-- H3: BrowserStack ve LambdaTest --></p>
+
+<div class="elementor-element elementor-element-65 elementor-widget elementor-widget-heading" data-id="65" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-113">BrowserStack, LambdaTest Gibi Çevrim İçi Test Ortamları</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-66 elementor-widget elementor-widget-text-editor" data-id="66" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-114">Gerçek cihaz simülasyonu ve canlı test için <a href="https://www.browserstack.com/" target="_blank" rel="noopener noreferrer">BrowserStack</a> veya <a href="https://www.lambdatest.com/" target="_blank" rel="noopener noreferrer">LambdaTest</a> tercih edebilirsiniz. Farklı işletim sistemleri, tarayıcı versiyonları ve ekran boyutlarında sitenizin görünüm ve işlevselliğini kontrol edebilirsiniz.</p>
+
+</div>
+</div>
+<p class="ai-optimize-115"><!-- H3: Lighthouse (Chrome DevTools) --></p>
+
+<div class="elementor-element elementor-element-67 elementor-widget elementor-widget-heading" data-id="67" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-116">Lighthouse (Chrome Geliştirici Araçları)</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-68 elementor-widget elementor-widget-text-editor" data-id="68" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-117">Chrome tarayıcısında Geliştirici Araçları → “Lighthouse” sekmesinden “Mobile” raporu çalıştırın. Performans, erişilebilirlik ve en iyi uygulamalar açısından detaylı öneriler alabilirsiniz.</p>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<p class="ai-optimize-118"><!-- Bölüm 8: Dokunmatik Kullanım ve Arayüz Tasarımı --></p>
+
+<section class="elementor-section elementor-top-section elementor-element elementor-element-69" data-id="69" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-70" data-id="70" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<p class="ai-optimize-119"><!-- H2 --></p>
+
+<div class="elementor-element elementor-element-71 elementor-widget elementor-widget-heading" data-id="71" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-lg ai-optimize-120">Dokunmatik Kullanım ve Arayüz (UI/UX) Tasarımı</h2>
+</div>
+</div>
+<p class="ai-optimize-121"><!-- Giriş Paragrafı --></p>
+
+<div class="elementor-element elementor-element-72 elementor-widget elementor-widget-text-editor" data-id="72" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-122">Mobil cihaz kullanıcıları, dokunmatik ekran üzerinden etkileşimde bulunur. Bu nedenle, <strong>mobil uyumluluk rehberi</strong> çerçevesinde UI/UX tasarımında şu unsurları göz önünde tutun:</p>
+
+</div>
+</div>
+<p class="ai-optimize-123"><!-- H3: Dokunma Alanları (Touch Targets) --></p>
+
+<div class="elementor-element elementor-element-73 elementor-widget elementor-widget-heading" data-id="73" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-124">Dokunma Alanları (Touch Targets)</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-74 elementor-widget elementor-widget-text-editor" data-id="74" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-125"><strong>Boyutlandırma:</strong> Dokunulabilir öğelerin (buton, link vb.) en az 44×44 piksel olması, kullanıcı deneyimini iyileştirir. <strong>Mobil uyumluluk rehberi</strong> açısından dokunma alanlarını yeterince büyük tutun.</p>
+<p class="ai-optimize-126"><strong>Boşluk:</strong> Dokunma alanlarının etrafında yeterli margin/padding kullanarak yanlış tıklamaları engelleyin.</p>
+
+</div>
+</div>
+<p class="ai-optimize-127"><!-- H3: Görsel Hiyerarşi ve Kolay Okunuş --></p>
+
+<div class="elementor-element elementor-element-75 elementor-widget elementor-widget-heading" data-id="75" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-128">Görsel Hiyerarşi ve Kolay Okunuş</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-76 elementor-widget elementor-widget-text-editor" data-id="76" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-129"><strong>Font Boyutları:</strong> Mobilde en az 16px font boyutu tercih edin. Satır uzunluğu ve satır yüksekliğini (line-height) artırarak okumayı kolaylaştırın.</p>
+<p class="ai-optimize-130"><strong>Kontrast:</strong> WCAG kriterlerine uygun kontrast oranları (en az 4.5:1) seçin. Bu sayede içerik, her ışık koşulunda okunabilir kalır.</p>
+
+</div>
+</div>
+<p class="ai-optimize-131"><!-- H3: Dikkat Dağınıklığını Azaltma --></p>
+
+<div class="elementor-element elementor-element-77 elementor-widget elementor-widget-heading" data-id="77" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-132">Dikkat Dağınıklığını Azaltma</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-78 elementor-widget elementor-widget-text-editor" data-id="78" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-133">Mobil ekranda kullanıcılar kısa süre odaklanır. CTA butonlarınızı net ve görünür yerleştirin. Gereksiz reklam veya pop-up kullanmaktan kaçının. Bu sayede kullanıcılar, <strong>mobil uyumluluk rehberi</strong> kapsamında sunduğunuz içeriğe odaklanır.</p>
+
+</div>
+</div>
+<p class="ai-optimize-134"><!-- H3: Kolay Gezinme ve Hızlı Erişim --></p>
+
+<div class="elementor-element elementor-element-79 elementor-widget elementor-widget-heading" data-id="79" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-135">Kolay Gezinme ve Hızlı Erişim</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-80 elementor-widget elementor-widget-text-editor" data-id="80" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-136"><strong>Hamburger Menü:</strong> Yatay alan kısıtlı olduğundan, mobilde hamburger menü veya off-canvas menü kullanın.</p>
+<p class="ai-optimize-137"><strong>Breadcrumb (Ekmek Kırıntıları):</strong> Kullanıcıların üst sayfaya kolayca dönmesini sağlayan breadcrumb yapısını ekleyin.</p>
+<p class="ai-optimize-138"><strong>Arama Çubuğu:</strong> Çok içerikli sitelerde, mobilde arama çubuğunu sayfanın üst kısmına yerleştirerek erişimi kolaylaştırın.</p>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<p class="ai-optimize-139"><!-- Bölüm 9: SEO Açısından Mobil Uyumluluk --></p>
+
+<section class="elementor-section elementor-top-section elementor-element elementor-element-81" data-id="81" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-82" data-id="82" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<p class="ai-optimize-140"><!-- H2 --></p>
+
+<div class="elementor-element elementor-element-83 elementor-widget elementor-widget-heading" data-id="83" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-lg ai-optimize-141">SEO Açısından Mobil Uyumluluk</h2>
+</div>
+</div>
+<p class="ai-optimize-142"><!-- Giriş Paragrafı --></p>
+
+<div class="elementor-element elementor-element-84 elementor-widget elementor-widget-text-editor" data-id="84" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-143">Yoast SEO uyumlu bir içerik oluştururken, hem teknik hem de içerik tarafında <strong>mobil uyumluluk rehberi</strong>’ne dikkat etmelisiniz. Aşağıdaki SEO en iyi uygulamaları, sayfanızın arama sonuçlarında üst sıralarda yer almasına yardımcı olur:</p>
+
+</div>
+</div>
+<p class="ai-optimize-144"><!-- H3: Odak Anahtar Kelime Kullanımı --></p>
+
+<div class="elementor-element elementor-element-85 elementor-widget elementor-widget-heading" data-id="85" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-145">Odak Anahtar Kelime Kullanımı (Keyword Placement)</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-86 elementor-widget elementor-widget-text-editor" data-id="86" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ul>
+ 	<li class="ai-optimize-146"><strong>Başlık (Title) ve Başlık Etiketleri (H1, H2, H3):</strong> Ana başlık (H1) “Mobil Uyumluluk Rehberi” ile başlıyor. Alt başlıklarda (H2/H3) da aynı anahtar kelimenin varyasyonlarını kullanın.</li>
+ 	<li class="ai-optimize-147"><strong>İlk Paragraf:</strong> Giriş paragrafında “mobil uyumluluk rehberi” ifadesi en az bir kez geçiyor.</li>
+ 	<li class="ai-optimize-148"><strong>Slug (URL):</strong> WordPress’te permalink slug’ınızı <code>mobil-uyumluluk-rehberi</code> olarak ayarlayın.</li>
+ 	<li class="ai-optimize-149"><strong>Meta Açıklama:</strong> Meta açıklamada “mobil uyumluluk rehberi” ifadesi doğal bir şekilde geçiyor.</li>
+</ul>
+</div>
+</div>
+<p class="ai-optimize-150"><!-- H3: İç Bağlantılar (Internal Links) --></p>
+
+<div class="elementor-element elementor-element-87 elementor-widget elementor-widget-heading" data-id="87" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-151">İç Bağlantılar (Internal Links)</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-88 elementor-widget elementor-widget-text-editor" data-id="88" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-152">Site içindeki ilgili konulara bağlantılar verin. Örneğin:</p>
+
+<ul>
+ 	<li class="ai-optimize-153">“<a href="/site-hizi-optimizasyonu" target="_blank" rel="noopener noreferrer">Site Hızı Optimizasyonu Rehberi</a>” makalemizde hız artırma ipuçlarını detaylı şekilde bulabilirsiniz.</li>
+ 	<li class="ai-optimize-154">“<a href="/webp-formati-nedir" target="_blank" rel="noopener noreferrer">WebP Formatı Nedir?</a>” yazımızda görsel optimizasyonuna dair tüm ayrıntılar mevcut.</li>
+</ul>
+</div>
+</div>
+<p class="ai-optimize-155"><!-- H3: Görsel Optimizasyonu ve Alt Metin (Alt Text) --></p>
+
+<div class="elementor-element elementor-element-89 elementor-widget elementor-widget-heading" data-id="89" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-156">Görsel Optimizasyonu ve Alt Metin</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-90 elementor-widget elementor-widget-text-editor" data-id="90" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-157">Her görselin dosya adında ve alt metninde (alt attribute) “mobile uyumluluk rehberi” veya “mobil uyumluluk” ifadesi kullanın:</p>
+
+<pre><code>&lt;img 
+  src="mobil-uyumluluk-ornek-gorsel.webp" 
+  alt="Mobil uyumluluk rehberi örnek görseli" 
+  loading="lazy"&gt;</code></pre>
+</div>
+</div>
+<p class="ai-optimize-158"><!-- H3: Başlık Hiyerarşisi (H Tagging) --></p>
+
+<div class="elementor-element elementor-element-91 elementor-widget elementor-widget-heading" data-id="91" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-159">Başlık Hiyerarşisi (H Tagging)</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-92 elementor-widget elementor-widget-text-editor" data-id="92" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-160">- Sadece bir tane H1 etiketi kullandık ve içinde odak anahtar kelime yer alıyor.
+- Bölüm başlıkları için H2, alt başlıklar için H3 kullanarak temiz bir hiyerarşi sağladık.
+- Bu yapı, arama motorlarının içeriğinizi doğru anlamasına yardımcı olur.</p>
+
+</div>
+</div>
+<p class="ai-optimize-161"><!-- H3: Mobil Site Hızı ve AMP --></p>
+
+<div class="elementor-element elementor-element-93 elementor-widget elementor-widget-heading" data-id="93" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-md ai-optimize-162">Mobil Site Hızı ve AMP</h3>
+</div>
+</div>
+<div class="elementor-element elementor-element-94 elementor-widget elementor-widget-text-editor" data-id="94" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-163"><strong>AMP (Accelerated Mobile Pages):</strong> Eğer blog veya haber sitesi runuyorsanız, <a href="https://amp.dev/" target="_blank" rel="noopener noreferrer">AMP</a> sayfaları mobilde öne çıkar. Fakat tasarım esnekliği kısıtlanabilir; kaynaklarınız varsa AMP entegrasyonunu değerlendirin.</p>
+<p class="ai-optimize-164"><strong>PageSpeed Insights:</strong> Düzenli olarak <a href="https://developers.google.com/speed/pagespeed/insights" target="_blank" rel="noopener noreferrer">rapor alın</a> ve önerileri aksatmadan uygulayın. Çünkü mobil site hızı, doğrudan sıralama faktörüdür.</p>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<p class="ai-optimize-165"><!-- Bölüm 10: Sonuç ve Öneriler --></p>
+
+<section class="elementor-section elementor-top-section elementor-element elementor-element-95" data-id="95" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-96" data-id="96" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<p class="ai-optimize-166"><!-- H2 --></p>
+
+<div class="elementor-element elementor-element-97 elementor-widget elementor-widget-heading" data-id="97" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-lg ai-optimize-167">Sonuç ve Öneriler</h2>
+</div>
+</div>
+<p class="ai-optimize-168"><!-- Metin --></p>
+
+<div class="elementor-element elementor-element-98 elementor-widget elementor-widget-text-editor" data-id="98" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p class="ai-optimize-169">Bu <strong>mobil uyumluluk rehberi</strong>’nde öğrendiğiniz teknikleri uygulayarak, web sitenizi mobil cihazlarda kusursuz bir deneyim sunacak şekilde optimize edebilirsiniz. Aşağıdaki adımları özet halinde hatırlayın:</p>
+
+<ol>
+ 	<li class="ai-optimize-170"><strong>Responsive Tasarım Uygulayın:</strong> CSS media queries, esnek ızgara sistemleri ve mobil-öncelikli yaklaşımla her ekranda uyum sağlayın.</li>
+ 	<li class="ai-optimize-171"><strong>Görselleri ve Multimedyayı Optimize Edin:</strong> WebP/AVIF formatlarını kullanın, resimleri doğru boyutlandırın ve lazy-loading uygulayın.</li>
+ 	<li class="ai-optimize-172"><strong>Sayfa Hızına Öncelik Verin:</strong> Kaynakları minify edin, tarayıcı önbellekleme, kritik kaynak önceliklendirme ve CDN entegrasyonunu kullanın.</li>
+ 	<li class="ai-optimize-173"><strong>Dokunmatik Kullanımı Kolaylaştırın:</strong> Dokunma alanlarını yeterince büyük tutun, font boyutlarını artırın ve kontrast oranlarını optimize edin.</li>
+ 	<li class="ai-optimize-174"><strong>SEO En İyi Uygulamalarını İzleyin:</strong> Başlık, meta açıklama, slug ve alt metinlerde “mobil uyumluluk rehberi” anahtar kelimesini kullanın; iç bağlantılarla site içi dolaşımı teşvik edin.</li>
+ 	<li class="ai-optimize-175"><strong>Test ve İzleme:</strong> Google Mobile-Friendly Test, PageSpeed Insights, Lighthouse gibi araçlarla sayfanızı düzenli kontrol edin ve önerileri uygulayın.</li>
+</ol>
+<p class="ai-optimize-176">Unutmayın: Mobil uyumluluk, sadece bir teknik zorunluluk değil, ziyaretçilerinize hızlı, kolay ve keyifli bir deneyim sunmanın garantisidir. Bu rehberi izleyerek, kullanıcı memnuniyeti ve SEO performansınızda önemli bir fark yaratabilirsiniz.</p>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</section></div>
